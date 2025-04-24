@@ -19,7 +19,8 @@ Execute all the programs in order to get the appropriate output
 ![Calculation](https://github.com/user-attachments/assets/90993c67-fcb4-48b7-b779-a3b4822bdb01)
 
 ## FACIAL LANDMARKS:
-< https://github.com/AnishRajAI/Drowsiness-Alert-System/raw/main/assets/Facial%20Landmarks.webp>
+![image](https://github.com/user-attachments/assets/153fbfd1-0f97-498e-9e90-ad2983d72d81)
+
 ## SEQUENCE Diagram:
 ![Alert System](https://github.com/user-attachments/assets/ca5b2c79-5a34-402d-9b52-875efc62ae12)
 
