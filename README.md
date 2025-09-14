@@ -15,6 +15,7 @@ Compare it with the threshold value for the detection of the eyes
 Write the code for the opening and closing of the camera
 Setup the alert sound when drowsiness is detected
 Execute all the programs in order to get the appropriate output
+Formula for EAR = (||p2 - p6|| + ||p3 - p5||) / (2 * ||p1 - p4||)
 ## EAR CALCULATION:
 ![Calculation](https://github.com/user-attachments/assets/90993c67-fcb4-48b7-b779-a3b4822bdb01)
 
