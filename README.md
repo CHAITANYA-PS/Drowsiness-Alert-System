@@ -28,7 +28,7 @@ Execute all the programs in order to get the appropriate output
 Upscaling, in the context of computer vision and image processing, refers to the process of increasing the size or resolution of an image. It involves the interpolation of pixel values to create a larger image that contains more detail than the original, lower-resolution image. The purpose of upscaling is often to improve the visual quality or to enhance the accuracy of certain image processing tasks.
 
 ## BGR Format:
-In BGR format, an image is represented as a 3-channel matrix where each channel corresponds to the intensity of the Blue, Green, and Red components of the image, respectively. The BGR format is a common format used in OpenCV and is different from the more common RGB format.
+In BGR format, an image is represented as a 3 channel matrix where each channel corresponds to the intensity of the Blue, Green, and Red components of the image, respectively. The BGR format is a common format used in OpenCV and is different from the more common RGB format.
 
 ## PROGRAM:
 ```python
